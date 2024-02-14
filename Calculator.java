@@ -58,6 +58,10 @@ public class Calculator{
             System.out.println("The  substraction of two numbers:"+c.sub(num1, num2));
             System.out.println("The multiplication of two numbers:"+c.multi(num1, num2));
             System.out.println("The  division of two numbers:"+c.div(num1, num2));
+            System.out.println("The Squareroot of  number:"+c.squ(num1));
+            System.out.println("The  Cuderoot of  number:"+c.cube(num1));
+            System.out.println("The Moduls of two  numbers:"+c.modulo(num1));
+            System.out.println("The  Area  of triangle:"+c.Areaoftriangle(num1));
            // sc.close();
         }
 }
