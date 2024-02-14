@@ -55,9 +55,9 @@ public class Calculator{
             float num2=10;
             Calculator c=new Calculator();
             System.out.println("The Addtion of two numbers:"+c.add(num1, num2));
-            System.out.println("The Addtion of two numbers:"+c.sub(num1, num2));
-            System.out.println("The Addtion of two numbers:"+c.multi(num1, num2));
-            System.out.println("The Addtion of two numbers:"+c.div(num1, num2));
+            System.out.println("The  substraction of two numbers:"+c.sub(num1, num2));
+            System.out.println("The multiplication of two numbers:"+c.multi(num1, num2));
+            System.out.println("The  division of two numbers:"+c.div(num1, num2));
            // sc.close();
         }
 }
